@@ -2,7 +2,7 @@
 date: "2019-02-25T13:38:41-06:00"
 description: Do you have any question, discussion or information? Send me a message using this form.
 draft: false
-formspree_form_id: winfredotse@gmail.com
+formspree_form_id: https://formspree.io/f/xeqnojkr
 layout: split-right
 name: Contact Us Form
 show_poweredby_formspree: true
