@@ -22,16 +22,16 @@ subtitle: International Journal of Gynecology and Obstetrics
 title: Use of a spatial scan statistic to identify clusters of births occurring outside Ghanaian health facilities for targeted intervention
 ---
 
-Objective
+__Objective:__
 To identify and evaluate clusters of births that occurred outside health facilities in Ghana for targeted intervention.
 
-Methods
+__Methods:__
 A retrospective study was conducted using a convenience sample of live births registered in Ghanaian health facilities from January 1 to December 31, 2014. Data were extracted from the district health information system. A spatial scan statistic was used to investigate clusters of home births through a discrete Poisson probability model. Scanning with a circular spatial window was conducted only for clusters with high rates of such deliveries. The district was used as the geographic unit of analysis. The likelihood P value was estimated using Monte Carlo simulations.
 
-Results
+__Results__
 Ten statistically significant clusters with a high rate of home birth were identified. The relative risks ranged from 1.43 (“least likely” cluster; P = 0.001) to 1.95 (“most likely” cluster; P = 0.001). The relative risks of the top five “most likely” clusters ranged from 1.68 to 1.95; these clusters were located in Ashanti, Brong Ahafo, and the Western, Eastern, and Greater regions of Accra.
 
-Conclusion
+__Conclusion:__
 Health facility records, geospatial techniques, and geographic information systems provided locally relevant information to assist policy makers in delivering targeted interventions to small geographic areas.
 
 
