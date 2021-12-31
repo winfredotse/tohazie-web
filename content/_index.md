@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I research maternal health at the University of Southampton. I use geospatial tools to solve public health problems and provide information for evidence-based public health practice. I love maps and jollof rice! 
+description: "I research maternal health at the University of Southampton. I use geospatial tools to solve public health problems and provide information for evidence-based public health practice. I love maps and **Ghana** jollof rice!"
 image_left: false
 images:
 - img/kwahu.jpg
